@@ -1,8 +1,9 @@
 # Airbnb dogsitter 🐕
 
+
 ## 1. Download ↪
 ```ruby
-$ git clone https://github.com/entertotheneworld/morpion.git
+$ git clone https://github.com/entertotheneworld/airbnb-dogsitter.git
 ```
 
 
@@ -18,6 +19,7 @@ To verify the installation you must have a Gemfile.lock file in the folder.
 ```ruby
 $ rails db:seed
 ```
+
 
 ## 4. Test 💻
 ```ruby
